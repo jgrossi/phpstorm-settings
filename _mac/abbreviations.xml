@@ -1,0 +1,33 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Git.Pull">
+        <abbreviation name="git pull" />
+      </action>
+      <action id="Compare.SameVersion">
+        <abbreviation name="git diff" />
+      </action>
+      <action id="CheckinProject">
+        <abbreviation name="git commit all" />
+      </action>
+      <action id="ChangesView.AddUnversioned">
+        <abbreviation name="git add" />
+      </action>
+      <action id="Vcs.ShowTabbedFileHistory">
+        <abbreviation name="git log" />
+      </action>
+      <action id="CheckinFiles">
+        <abbreviation name="git commit" />
+      </action>
+      <action id="Vcs.Push">
+        <abbreviation name="git push" />
+      </action>
+      <action id="UML.ShowChanges">
+        <abbreviation name="git status" />
+      </action>
+      <action id="Git.Branches">
+        <abbreviation name="git checkout" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

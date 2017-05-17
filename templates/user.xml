@@ -1,0 +1,81 @@
+<templateSet group="user">
+  <template name="php" value="&lt;?php $CODE$ ?&gt;" description="PHP tag" toReformat="true" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($CONDITIONAL$) {&#10;    $END$&#10;}" description="PHP if" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITIONAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifp" value="&lt;?php if ($CONDITIONAL$): ?&gt;&#10;    $END$&#10;&lt;?php endif; ?&gt;" description="PHP if inside HTML" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITIONAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="foreachk" value="foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="" defaultValue="&quot;$key&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="foreach ($ITERABLE$ as $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreachp" value="&lt;?php foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$): ?&gt;&#10;    $END$&#10;&lt;?php endforeach; ?&gt;" description="HTML PHP foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="" defaultValue="&quot;$key&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="met" value="$public$ function $name$($params$)&#10;{&#10;    $END$&#10;}" description="PHP method" toReformat="true" toShortenFQNames="true">
+    <variable name="public" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="mets" value="$public$ static function $name$($params$)&#10;{&#10;    $END$&#10;}" description="PHP static method" toReformat="true" toShortenFQNames="true">
+    <variable name="public" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $END$&#10;} catch ($exception$ $e$) {&#10;    $code$&#10;}" description="PHP try catch" toReformat="true" toShortenFQNames="true">
+    <variable name="exception" expression="" defaultValue="&quot;Exception&quot;" alwaysStopAt="true" />
+    <variable name="e" expression="" defaultValue="&quot;$e&quot;" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="phpunit" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;phpunit backupGlobals=&quot;false&quot;&#10;         backupStaticAttributes=&quot;false&quot;&#10;         bootstrap=&quot;$AUTOLOAD_PATH$&quot;&#10;         colors=&quot;true&quot;&#10;         convertErrorsToExceptions=&quot;true&quot;&#10;         convertNoticesToExceptions=&quot;true&quot;&#10;         convertWarningsToExceptions=&quot;true&quot;&#10;         processIsolation=&quot;false&quot;&#10;         stopOnFailure=&quot;false&quot;&gt;&#10;    &lt;testsuites&gt;&#10;        &lt;testsuite name=&quot;$DESCRIPTION$&quot;&gt;&#10;            &lt;directory&gt;./$TESTS_DIR$/&lt;/directory&gt;&#10;        &lt;/testsuite&gt;&#10;    &lt;/testsuites&gt;&#10;    &lt;filter&gt;&#10;        &lt;whitelist&gt;&#10;            &lt;directory suffix=&quot;.php&quot;&gt;app/&lt;/directory&gt;&#10;        &lt;/whitelist&gt;&#10;    &lt;/filter&gt;&#10;    &lt;php&gt;&#10;        &lt;env name=&quot;APP_ENV&quot; value=&quot;testing&quot;/&gt;&#10;        &lt;env name=&quot;CACHE_DRIVER&quot; value=&quot;array&quot;/&gt;&#10;        &lt;env name=&quot;SESSION_DRIVER&quot; value=&quot;array&quot;/&gt;&#10;        &lt;env name=&quot;QUEUE_DRIVER&quot; value=&quot;sync&quot;/&gt;&#10;    &lt;/php&gt;&#10;&lt;/phpunit&gt;" description="Generate the PHPUnit XML file" toReformat="false" toShortenFQNames="true">
+    <variable name="AUTOLOAD_PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TESTS_DIR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
