@@ -1,8 +1,8 @@
-<scheme name="Github" version="141" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+<scheme name="Github" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="969896" />
   </colors>
@@ -159,6 +159,9 @@
       <value>
         <option name="FOREGROUND" value="333333" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
