@@ -4,7 +4,7 @@
     <property name="created">2017-05-19T23:39:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-05-19T23:43:32</property>
+    <property name="modified">2017-05-22T13:56:11</property>
     <property name="originalScheme">Relax Your Eyes copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -436,6 +436,11 @@
       <value>
         <option name="FOREGROUND" value="66" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
