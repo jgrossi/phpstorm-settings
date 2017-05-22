@@ -124,6 +124,11 @@
         <option name="FOREGROUND" value="86b3" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="f7faff" />
+      </value>
+    </option>
     <option name="PHP_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="333333" />
@@ -159,9 +164,6 @@
       <value>
         <option name="FOREGROUND" value="333333" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
   </attributes>
 </scheme>
