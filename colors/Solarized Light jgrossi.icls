@@ -1,7 +1,18 @@
-<scheme name="Solarized Light" version="142" parent_scheme="Default">
+<scheme name="Solarized Light jgrossi" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <metaInfo>
+    <property name="created">2017-05-24T11:14:17</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-05-24T11:14:28</property>
+    <property name="originalScheme">Solarized Light copy</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />

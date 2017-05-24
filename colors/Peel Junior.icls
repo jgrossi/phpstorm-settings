@@ -12870,6 +12870,11 @@
         <option name="FOREGROUND" value="94c7b6" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="edebe6" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
