@@ -4,14 +4,14 @@
     <property name="created">2016-12-30T22:53:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-30T11:07:38</property>
+    <property name="modified">2017-05-31T12:00:20</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
