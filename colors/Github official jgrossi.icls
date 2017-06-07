@@ -4,7 +4,7 @@
     <property name="created">2017-06-07T10:13:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-07T10:30:33</property>
+    <property name="modified">2017-06-07T13:32:42</property>
     <property name="originalScheme">Github copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -134,9 +134,7 @@
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="BACKGROUND" value="f7faff" />
-      </value>
+      <value />
     </option>
     <option name="PHP_SEMICOLON">
       <value>
