@@ -4,7 +4,7 @@
     <property name="created">2017-06-07T10:13:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-08T15:29:09</property>
+    <property name="modified">2017-06-08T16:51:41</property>
     <property name="originalScheme">Github copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -18,8 +18,8 @@
   <attributes>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="795dbc" />
-        <option name="ERROR_STRIPE_COLOR" value="877abc" />
+        <option name="EFFECT_COLOR" value="8000" />
+        <option name="ERROR_STRIPE_COLOR" value="76b97e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -181,8 +181,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="8000" />
-        <option name="ERROR_STRIPE_COLOR" value="76b97e" />
+        <option name="EFFECT_COLOR" value="b6b6b6" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
