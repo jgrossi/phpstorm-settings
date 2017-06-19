@@ -4,7 +4,7 @@
     <property name="created">2017-06-07T10:13:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-19T14:45:53</property>
+    <property name="modified">2017-06-19T17:28:05</property>
     <property name="originalScheme">Github copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -86,6 +86,14 @@
         <option name="FOREGROUND" value="f0ba79" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value />
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="8000" />
@@ -116,6 +124,12 @@
     <option name="PHP_COMMA">
       <value>
         <option name="FOREGROUND" value="333333" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -185,6 +199,11 @@
         <option name="FOREGROUND" value="a71d5d" />
       </value>
     </option>
+    <option name="PHP_MARKUP_ID">
+      <value>
+        <option name="BACKGROUND" value="e2ffe2" />
+      </value>
+    </option>
     <option name="PHP_NUMBER">
       <value>
         <option name="FOREGROUND" value="86b3" />
@@ -247,6 +266,13 @@
     <option name="PHP_VAR_VAR">
       <value>
         <option name="FOREGROUND" value="333333" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a71d5d" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="a71d5d" />
       </value>
     </option>
     <option name="TYPO">
