@@ -4,7 +4,7 @@
     <property name="created">2017-06-19T14:01:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-19T14:24:56</property>
+    <property name="modified">2017-06-19T14:32:59</property>
     <property name="originalScheme">Github official jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -86,7 +86,12 @@
         <option name="FOREGROUND" value="f0ba79" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="5cc5" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="5cc5" />
@@ -195,6 +200,12 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
+    <option name="GOTO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="5cc5" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="8000" />
@@ -204,7 +215,13 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="86b3" />
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_BAD_CHARACTER">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
       </value>
     </option>
     <option name="PHP_BRACES">
@@ -227,9 +244,44 @@
         <option name="FOREGROUND" value="333333" />
       </value>
     </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="5cc5" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="PHP_EXEC_COMMAND_ID">
+      <value>
+        <option name="FOREGROUND" value="32f62" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="6f42c1" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
@@ -240,13 +292,21 @@
     </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="183691" />
+        <option name="FOREGROUND" value="32f62" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5cc5" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -256,7 +316,8 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="6f42c1" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -264,16 +325,40 @@
         <option name="FOREGROUND" value="795da3" />
       </value>
     </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d73a49" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_MARKUP_ID">
+      <value>
+        <option name="BACKGROUND" value="e2ffe2" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="5cc5" />
+      </value>
+    </option>
     <option name="PHP_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="d73a49" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PARAMETER">
+      <value />
+    </option>
+    <option name="PHP_PARENTHESES">
+      <value />
+    </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
-        <option name="FOREGROUND" value="86b3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PHP_SEMICOLON">
       <value>
@@ -287,24 +372,32 @@
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="333333" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="6f42c1" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="32f62" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="d73a49" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="24292e" />
+        <option name="FOREGROUND" value="5cc5" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">
