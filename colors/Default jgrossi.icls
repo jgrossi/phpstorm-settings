@@ -4,13 +4,11 @@
     <property name="created">2017-06-19T14:43:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-19T14:44:40</property>
+    <property name="modified">2017-06-20T08:56:37</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <attributes>
     <option name="DEFAULT_CONSTANT">
