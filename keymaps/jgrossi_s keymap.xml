@@ -41,6 +41,9 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="ctrl alt c" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -61,4 +64,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="ctrl alt c" />
+  </action>
 </keymap>
