@@ -4,7 +4,7 @@
     <property name="created">2017-06-19T14:01:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-20T14:40:03</property>
+    <property name="modified">2017-07-07T11:16:21</property>
     <property name="originalScheme">Github official jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -299,7 +299,6 @@
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -329,7 +328,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d73a49" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -380,13 +378,11 @@
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="32f62" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="d73a49" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR">
