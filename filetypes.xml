@@ -19,13 +19,14 @@
       <mapping pattern="rsync" type="PLAIN_TEXT" />
       <mapping pattern="view," type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ssh" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="rsync" type="PLAIN_TEXT" />
-      <mapping ext="liquid" type="Twig" />
       <mapping ext="db" type="SQL files" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
