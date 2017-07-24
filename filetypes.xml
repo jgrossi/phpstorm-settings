@@ -10,15 +10,16 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="copy-wp-theme" type="PLAIN_TEXT" />
-      <mapping pattern="syncr" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".ftppass" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="phpunit" type="PLAIN_TEXT" />
-      <mapping pattern="rsync" type="PLAIN_TEXT" />
-      <mapping pattern="view," type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="view," type="PLAIN_TEXT" />
+      <mapping pattern="syncr" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="rsync" type="PLAIN_TEXT" />
+      <mapping pattern="copy-wp-theme" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ssh" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
