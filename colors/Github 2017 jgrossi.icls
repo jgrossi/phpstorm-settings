@@ -4,14 +4,12 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-28T16:44:50</property>
+    <property name="modified">2017-07-28T16:51:15</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e9e9e9" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -159,7 +157,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5cc5" />
+        <option name="FOREGROUND" value="75cf" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
@@ -169,7 +167,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="33cccc" />
+        <option name="FOREGROUND" value="6f42c2" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
