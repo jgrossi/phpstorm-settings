@@ -1,16 +1,14 @@
 <scheme name="Solarized Light jgrossi" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-24T11:14:17</property>
+    <property name="created">2017-07-28T16:07:12</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-12T16:57:57</property>
-    <property name="originalScheme">Solarized Light copy</property>
+    <property name="ideVersion">2017.2.0.0</property>
+    <property name="modified">2017-07-28T16:07:56</property>
+    <property name="originalScheme">Solarized Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
@@ -19,7 +17,7 @@
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="GUTTER_BACKGROUND" value="eee8d5" />
     <option name="INDENT_GUIDE" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
@@ -3148,7 +3146,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="fdf6e3" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
