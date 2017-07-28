@@ -4,14 +4,14 @@
     <property name="created">2017-05-22T13:57:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-21T10:25:41</property>
+    <property name="modified">2017-07-28T16:37:49</property>
     <property name="originalScheme">Notepad++ copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="" />
