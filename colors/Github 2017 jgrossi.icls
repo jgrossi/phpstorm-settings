@@ -4,11 +4,11 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-08-04T13:25:17</property>
+    <property name="modified">2017-08-04T13:41:49</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e9e9e9" />
