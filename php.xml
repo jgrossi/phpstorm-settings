@@ -1,11 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_namespace_scope="false" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/bin/php" id="60357ca7-ac05-42df-82f3-db67657f201c" name="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter home="vagrant:///Users/jgrossi/Homestead/usr/bin/php" id="6b5e3cc9-09e4-4f88-b5b7-73d2a2fe3298" name="Remote PHP 7" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
