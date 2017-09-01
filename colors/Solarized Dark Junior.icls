@@ -4,11 +4,11 @@
     <property name="created">2016-12-30T22:53:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-09-01T15:46:24</property>
+    <property name="modified">2017-09-01T18:07:00</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
