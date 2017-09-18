@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-09-13T17:32:51</property>
+    <property name="modified">2017-09-15T19:35:25</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -918,24 +918,6 @@
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="333333" />
-      </value>
-    </option>
-    <option name="LINE_FULL_COVERAGE">
-      <value>
-        <option name="FOREGROUND" value="d1d1d1" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LINE_NONE_COVERAGE">
-      <value>
-        <option name="FOREGROUND" value="715353" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LINE_PARTIAL_COVERAGE">
-      <value>
-        <option name="FOREGROUND" value="80805a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
