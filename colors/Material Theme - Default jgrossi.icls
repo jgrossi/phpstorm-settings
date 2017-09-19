@@ -1,10 +1,10 @@
 <scheme name="Material Theme - Default jgrossi" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-09-19T15:22:49</property>
+    <property name="created">2017-09-19T16:26:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-19T15:22:58</property>
+    <property name="modified">2017-09-19T16:27:06</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
