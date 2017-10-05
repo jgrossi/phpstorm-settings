@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
@@ -74,4 +75,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
 </keymap>
