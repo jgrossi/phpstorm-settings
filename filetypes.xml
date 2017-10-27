@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
+      <mapping pattern="trader" type="PHP" />
       <mapping ext="ctp" type="PHP" />
     </extensionMap>
   </component>
