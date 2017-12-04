@@ -86,4 +86,13 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="ltestc" value="namespace Tests\$namespace$;&#10;&#10;use Tests\TestCase;&#10;&#10;class $name$ extends TestCase&#10;{&#10;    $END$&#10;}&#10;" description="Laravel Test Class" toReformat="true" toShortenFQNames="true">
+    <variable name="namespace" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
 </templateSet>
