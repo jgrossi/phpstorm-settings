@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="shift alt a" />
@@ -55,6 +58,7 @@
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="ctrl alt c" />
   </action>
+  <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
