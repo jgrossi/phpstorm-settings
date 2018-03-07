@@ -4,6 +4,7 @@
       <mapping pattern=".env" type="Ini" />
       <mapping pattern="trader" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
