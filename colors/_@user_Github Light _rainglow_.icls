@@ -4,7 +4,7 @@
     <property name="created">2018-03-15T12:26:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-28T09:43:31</property>
+    <property name="modified">2018-03-28T10:36:48</property>
     <property name="originalScheme">Github Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,8 +16,6 @@
     <option name="EDITOR_FONT_NAME" value="SF Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="dd1144" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -96,13 +94,11 @@
     <option name="APACHE_CONFIG.COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="APACHE_CONFIG.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Abstract class name">
@@ -152,13 +148,11 @@
     <option name="BLADE_COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
@@ -364,7 +358,6 @@
     <option name="COFFEESCRIPT.KEYWORD">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -448,7 +441,6 @@
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
@@ -544,7 +536,6 @@
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -606,13 +597,11 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -648,7 +637,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -660,7 +648,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -717,13 +705,11 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -769,7 +755,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1209,7 +1194,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -2281,7 +2265,6 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2295,7 +2278,6 @@
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="b8b6b1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -2355,7 +2337,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -2401,7 +2382,6 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
@@ -2417,7 +2397,6 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="445588" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
