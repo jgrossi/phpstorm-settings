@@ -4,7 +4,7 @@
     <property name="created">2018-03-15T12:26:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-28T10:36:48</property>
+    <property name="modified">2018-03-28T10:45:36</property>
     <property name="originalScheme">Github Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -494,7 +494,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="3b3b3b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -793,25 +792,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6c4e81" />
+        <option name="BACKGROUND" value="c190df" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="b63b50" />
+        <option name="BACKGROUND" value="ec8b9a" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="45582b" />
+        <option name="BACKGROUND" value="d6f4a2" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="927243" />
+        <option name="BACKGROUND" value="cdaa53" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
