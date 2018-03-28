@@ -4,7 +4,7 @@
     <property name="created">2018-03-15T12:26:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-28T10:45:36</property>
+    <property name="modified">2018-03-28T11:12:44</property>
     <property name="originalScheme">Github Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -202,7 +202,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1717" />
+        <option name="BACKGROUND" value="f3d0ce" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -589,7 +589,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="868686" />
+        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="f6c443" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -836,7 +842,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="597f5f" />
+        <option name="BACKGROUND" value="d6f4a2" />
       </value>
     </option>
     <option name="Enum name">
