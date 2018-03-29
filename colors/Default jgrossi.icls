@@ -4,18 +4,33 @@
     <property name="created">2017-06-19T14:43:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-03-29T08:37:49</property>
+    <property name="modified">2018-03-29T16:08:00</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
