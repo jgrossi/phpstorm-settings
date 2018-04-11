@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.1.5.3" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="defaultBackground" value="" />
+    <option name="accentColor" value="FFC107" />
   </component>
 </application>
