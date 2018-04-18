@@ -4,12 +4,12 @@
     <property name="created">2017-07-28T16:07:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2018-04-11T17:10:46</property>
+    <property name="modified">2018-04-18T13:18:15</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Courier" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -701,7 +701,6 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -712,7 +711,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -758,7 +756,6 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -771,10 +768,16 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value />
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d33682" />
       </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value />
     </option>
     <option name="DEFAULT_STRING">
       <value>
@@ -1960,7 +1963,6 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -2057,19 +2059,16 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
