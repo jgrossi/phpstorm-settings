@@ -4,12 +4,12 @@
     <property name="created">2018-01-18T09:22:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-02-19T08:57:50</property>
+    <property name="modified">2018-04-18T14:16:00</property>
     <property name="originalScheme">Snappy Light (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Courier" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="4ea1df" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -129,12 +129,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -2273,7 +2267,6 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2287,7 +2280,6 @@
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -2347,7 +2339,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="4ea1df" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -2393,7 +2384,6 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
@@ -2409,7 +2399,6 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="4ea1df" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
