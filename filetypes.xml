@@ -5,6 +5,7 @@
       <mapping pattern="trader" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
