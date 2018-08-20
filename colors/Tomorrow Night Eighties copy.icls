@@ -1,17 +1,18 @@
-<scheme name="Tomorrow Night Eighties junior" version="142" parent_scheme="Default">
+<scheme name="Tomorrow Night Eighties copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-02-09T08:11:05</property>
+    <property name="created">2018-08-20T08:59:09</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-09-18T08:46:10</property>
+    <property name="ideVersion">2018.2.1.0.0</property>
+    <property name="modified">2018-08-20T08:59:27</property>
     <property name="originalScheme">Tomorrow Night Eighties</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cccccc" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
