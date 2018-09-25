@@ -1,13 +1,13 @@
 <scheme name="Afterglow" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Cousine" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -17,6 +17,7 @@
     <option name="EDITOR_FONT_NAME" value="Inconsolata" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b4c973" />
     <option name="ANNOTATIONS_COLOR" value="678aaf" />
