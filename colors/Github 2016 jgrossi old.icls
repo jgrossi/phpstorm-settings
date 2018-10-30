@@ -4,13 +4,14 @@
     <property name="created">2018-07-16T17:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-09-21T10:45:16</property>
+    <property name="modified">2018-10-30T12:26:39</property>
     <property name="originalScheme">Github 2016 jgrossi</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e9e9e9" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
