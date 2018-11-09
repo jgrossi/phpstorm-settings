@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="$LRU">
+        <abbreviation name="recent" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
