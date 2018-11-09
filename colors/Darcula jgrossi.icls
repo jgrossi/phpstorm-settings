@@ -4,7 +4,7 @@
     <property name="created">2017-05-17T13:45:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-11-08T22:35:36</property>
+    <property name="modified">2018-11-09T10:23:40</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -43,6 +43,16 @@
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="252525" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
