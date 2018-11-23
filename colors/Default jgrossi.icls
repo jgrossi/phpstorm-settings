@@ -4,12 +4,12 @@
     <property name="created">2017-06-19T14:43:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-11-08T21:27:16</property>
+    <property name="modified">2018-11-23T08:46:27</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -57,12 +57,6 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
     </option>
     <option name="TYPO">
       <value>
