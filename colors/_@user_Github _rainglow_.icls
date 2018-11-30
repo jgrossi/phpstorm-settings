@@ -4,12 +4,12 @@
     <property name="created">2018-01-31T11:09:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-05-22T13:17:31</property>
+    <property name="modified">2018-11-30T12:05:31</property>
     <property name="originalScheme">Github (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="Cousine" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e53d67" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -94,7 +94,6 @@
     <option name="APACHE_CONFIG.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Abstract class name">
@@ -126,7 +125,6 @@
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="66c4c4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_BAD_CHARACTER">
@@ -138,13 +136,11 @@
     <option name="BLADE_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
@@ -245,7 +241,6 @@
     <option name="COFFEESCRIPT.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BOOLEAN">
@@ -350,7 +345,6 @@
     <option name="COFFEESCRIPT.KEYWORD">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -434,7 +428,6 @@
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
@@ -524,13 +517,11 @@
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -592,13 +583,11 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5a6fad" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -634,7 +623,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -646,7 +634,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -703,13 +691,11 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="555555" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -755,7 +741,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1195,7 +1180,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="5a6fad" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1481,7 +1465,6 @@
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="FOREGROUND" value="66c4c4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
@@ -2238,6 +2221,9 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value />
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -2341,7 +2327,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="7385bc" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -3030,7 +3015,6 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="66c4c4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -3481,7 +3465,6 @@
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="5a6fad" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
