@@ -877,6 +877,7 @@
         <option name="FOREGROUND" value="99cc99" />
       </value>
     </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="2" />
