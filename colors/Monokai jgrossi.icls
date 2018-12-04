@@ -4,14 +4,13 @@
     <property name="created">2017-05-18T17:47:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-04-09T17:18:26</property>
+    <property name="modified">2018-12-04T14:25:47</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="EDITOR_FONT_NAME" value="Cousine" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
