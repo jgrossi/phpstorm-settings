@@ -4,14 +4,14 @@
     <property name="created">2017-05-19T23:39:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-12-04T17:25:17</property>
+    <property name="modified">2018-12-04T17:30:04</property>
     <property name="originalScheme">Relax Your Eyes copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="aaccff" />
+    <option name="CARET_ROW_COLOR" value="f5f5f5" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="ffbcf2" />
     <option name="LINE_NUMBERS_COLOR" value="666666" />
