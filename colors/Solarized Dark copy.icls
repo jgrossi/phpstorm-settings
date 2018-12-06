@@ -1,16 +1,15 @@
-<scheme name="Solarized Dark Junior" version="142" parent_scheme="Default">
+<scheme name="Solarized Dark copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-12-30T22:53:58</property>
+    <property name="created">2018-12-06T14:25:56</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-11-30T11:29:54</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2018-12-06T14:26:06</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -351,6 +350,7 @@
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -361,6 +361,7 @@
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -386,6 +387,7 @@
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -396,6 +398,7 @@
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d13681" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -411,6 +414,7 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -437,6 +441,7 @@
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -720,7 +725,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -781,7 +786,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -1211,12 +1216,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="73642" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT">
-      <value>
-        <option name="FOREGROUND" value="9c9c9c" />
-        <option name="BACKGROUND" value="555555" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -14258,7 +14257,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="PHP_VAR">
