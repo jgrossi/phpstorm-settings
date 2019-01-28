@@ -4,13 +4,14 @@
     <property name="created">2018-01-18T09:22:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-11-08T15:08:24</property>
+    <property name="modified">2019-01-26T10:06:06</property>
     <property name="originalScheme">Laracasts Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Input Mono" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98d5d6" />
@@ -2349,7 +2350,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b1b3" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">

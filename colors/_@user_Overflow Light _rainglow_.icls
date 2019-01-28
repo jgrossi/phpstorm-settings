@@ -4,19 +4,20 @@
     <property name="created">2018-11-08T15:04:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-08T15:07:07</property>
+    <property name="modified">2019-01-26T10:06:36</property>
     <property name="originalScheme">Overflow Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Cousine" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Input Mono" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="4abcc9" />
@@ -2355,7 +2356,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fe532c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
