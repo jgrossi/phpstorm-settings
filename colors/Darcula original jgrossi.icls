@@ -4,11 +4,11 @@
     <property name="created">2017-10-16T14:01:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-01-25T22:03:19</property>
+    <property name="modified">2019-01-28T10:10:39</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Input Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
 </scheme>
