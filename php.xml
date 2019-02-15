@@ -13,14 +13,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="/usr/local/bin/php">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.18/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.18/bin/php" path_separator=":" version="7.1.18">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.6/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.6/bin/php" path_separator=":" version="7.2.6">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.18/share/php@7.1/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.6/share/php/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.1">
+            <debugger_info debugger="xdebug" debugger_version="2.6.0">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -32,7 +32,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -50,13 +49,12 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -76,6 +74,7 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
