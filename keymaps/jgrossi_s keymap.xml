@@ -55,6 +55,9 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="ctrl alt c" />
   </action>
