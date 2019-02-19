@@ -1,11 +1,11 @@
 <scheme name="Relax Your Eyes" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Input" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="aaccff" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
