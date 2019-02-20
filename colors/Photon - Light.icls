@@ -4,11 +4,11 @@
     <property name="created">2018-05-31T10:06:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-02-19T08:36:41</property>
+    <property name="modified">2019-02-20T12:44:28</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Input" />
   <colors>
     <option name="CARET_COLOR" value="888888" />
