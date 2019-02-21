@@ -4,15 +4,16 @@
     <property name="created">2018-08-20T09:24:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2019-02-21T10:36:47</property>
+    <property name="modified">2019-02-21T10:51:41</property>
     <property name="originalScheme">Default copy1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
+  <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <attributes>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
