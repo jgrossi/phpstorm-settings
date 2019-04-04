@@ -4,7 +4,7 @@
     <property name="created">2018-11-23T08:37:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-04-04T10:30:02</property>
+    <property name="modified">2019-04-04T15:15:13</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -33,4 +33,9 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
