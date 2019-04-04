@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="183a08a2-0227-476d-a25c-e7bec0ec32f0" name="fixtech" url="http://fixtech.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="50b1bfb6-4ff3-49a8-99dc-a9abba0070b0" name="reviewd" url="http://reviewd.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
