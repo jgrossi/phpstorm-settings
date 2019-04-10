@@ -4,10 +4,10 @@
     <property name="created">2018-08-20T09:24:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2019-03-14T18:52:16</property>
+    <property name="modified">2019-04-10T14:59:06</property>
     <property name="originalScheme">Default copy1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.55" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
   <option name="EDITOR_LIGATURES" value="true" />
