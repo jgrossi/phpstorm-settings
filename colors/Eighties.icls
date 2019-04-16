@@ -1,8 +1,8 @@
 <scheme name="Eighties" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.55" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Cousine" />
+    <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
