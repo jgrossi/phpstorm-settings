@@ -4,12 +4,12 @@
     <property name="created">2017-09-19T16:26:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-03-15T16:40:19</property>
+    <property name="modified">2019-04-16T14:12:53</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.55" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
