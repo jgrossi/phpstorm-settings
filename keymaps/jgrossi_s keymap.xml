@@ -31,9 +31,6 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
   <action id="IntroduceConstant" />
   <action id="OpenDirectoryProject">
     <keyboard-shortcut first-keystroke="shift meta o" />
