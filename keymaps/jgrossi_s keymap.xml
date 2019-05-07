@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt c" />
@@ -30,6 +31,10 @@
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IntroduceConstant" />
   <action id="OpenDirectoryProject">
@@ -74,6 +79,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="UML.ShowChanges">
     <keyboard-shortcut first-keystroke="shift meta alt d" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
