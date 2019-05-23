@@ -4,7 +4,7 @@
     <property name="created">2019-02-28T07:29:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-04-09T10:19:53</property>
+    <property name="modified">2019-05-23T11:35:42</property>
     <property name="originalScheme">_@user_Jewel Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -2355,7 +2355,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="6299c4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
