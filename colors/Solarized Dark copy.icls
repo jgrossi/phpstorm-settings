@@ -4,12 +4,12 @@
     <property name="created">2018-12-06T14:25:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-03-15T16:41:09</property>
+    <property name="modified">2019-05-28T20:45:43</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.55" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
