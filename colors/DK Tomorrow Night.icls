@@ -1,8 +1,8 @@
 <scheme name="DK Tomorrow Night" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Cousine" />
+  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b9ca4a" />
     <option name="ANNOTATIONS_COLOR" value="b2c0c6" />
