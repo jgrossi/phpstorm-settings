@@ -4,12 +4,12 @@
     <property name="created">2018-03-15T12:26:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-04-09T10:15:13</property>
+    <property name="modified">2019-06-04T13:45:37</property>
     <property name="originalScheme">Github Light (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="dd1144" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
