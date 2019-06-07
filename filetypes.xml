@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
-      <mapping pattern=".env" type="Ini" />
       <mapping pattern="trader" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
