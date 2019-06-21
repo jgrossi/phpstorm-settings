@@ -4,14 +4,13 @@
     <property name="created">2017-10-16T14:01:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-06-13T21:54:41</property>
+    <property name="modified">2019-06-21T10:17:22</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>
