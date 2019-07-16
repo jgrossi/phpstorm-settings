@@ -5,6 +5,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
