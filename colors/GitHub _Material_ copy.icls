@@ -4,7 +4,7 @@
     <property name="created">2019-09-04T09:52:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-09-04T09:53:04</property>
+    <property name="modified">2019-09-04T16:10:20</property>
     <property name="originalScheme">_@user_GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
