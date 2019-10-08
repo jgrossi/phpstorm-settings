@@ -95,8 +95,7 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
-  <template name="class" value="&#10;declare(strict_types=1);&#10;&#10;$final$ class $name$&#10;{&#10;    $END$&#10;}" description="php 7 class declaration" toReformat="false" toShortenFQNames="true">
-    <variable name="final" expression="" defaultValue="&quot;final&quot;" alwaysStopAt="true" />
+  <template name="class" value="&#10;declare(strict_types=1);&#10;&#10;class $name$&#10;{&#10;    $END$&#10;}" description="php 7 class declaration" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
