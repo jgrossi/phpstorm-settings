@@ -1,11 +1,11 @@
-<scheme name="_@user_Arc Dark" version="142" parent_scheme="Darcula">
+<scheme name="Arc Dark copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-15T17:27:13</property>
+    <property name="created">2019-11-15T17:29:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2019-11-15T17:32:23</property>
-    <property name="originalScheme">Arc Dark</property>
+    <property name="modified">2019-11-15T17:29:54</property>
+    <property name="originalScheme">_@user_Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
   <font>
@@ -495,7 +495,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9b859d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
