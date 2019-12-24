@@ -4,18 +4,16 @@
     <property name="created">2019-04-18T08:56:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-23T09:53:51</property>
+    <property name="modified">2019-12-24T15:28:09</property>
     <property name="originalScheme">_@user_Gray</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.05" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f2f3f5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafbfc" />
-    <option name="FILESTATUS_COPIED" value="a7700" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="GUTTER_BACKGROUND" value="fafbfc" />
     <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
     <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
