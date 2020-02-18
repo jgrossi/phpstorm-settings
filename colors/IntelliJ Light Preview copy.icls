@@ -4,12 +4,12 @@
     <property name="created">2019-12-12T14:21:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-02-07T10:34:28</property>
+    <property name="modified">2020-02-18T09:23:08</property>
     <property name="originalScheme">_@user_IntelliJ Light Preview</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
