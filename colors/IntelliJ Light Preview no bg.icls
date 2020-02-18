@@ -1,11 +1,11 @@
-<scheme name="IntelliJ Light Preview copy" version="142" parent_scheme="Default">
+<scheme name="IntelliJ Light Preview no bg" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-12-12T14:21:09</property>
+    <property name="created">2020-02-18T09:33:57</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.3.0.0</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
     <property name="modified">2020-02-18T09:34:01</property>
-    <property name="originalScheme">_@user_IntelliJ Light Preview</property>
+    <property name="originalScheme">IntelliJ Light Preview copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -150,6 +150,9 @@
       <value>
         <option name="BACKGROUND" value="f2f2f2" />
       </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
