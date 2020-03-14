@@ -4,10 +4,10 @@
     <property name="created">2020-02-18T09:33:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-03-13T13:50:57</property>
+    <property name="modified">2020-03-14T23:50:33</property>
     <property name="originalScheme">IntelliJ Light Preview copy1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
