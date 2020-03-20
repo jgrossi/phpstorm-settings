@@ -1,16 +1,15 @@
-<scheme name="IntelliJ Light Preview no bg" version="142" parent_scheme="Default">
+<scheme name="IntelliJ Light Preview copy1" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-18T09:33:57</property>
+    <property name="created">2020-03-20T09:25:40</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-03-20T09:22:18</property>
-    <property name="originalScheme">IntelliJ Light Preview copy1</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-20T09:25:55</property>
+    <property name="originalScheme">IntelliJ Light Preview copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cousine" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
@@ -52,16 +51,19 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="80118c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -73,6 +75,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -113,6 +116,7 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -125,17 +129,16 @@
         <option name="FOREGROUND" value="1649e0" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL">
-      <value />
-    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="80118c" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="7599" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
