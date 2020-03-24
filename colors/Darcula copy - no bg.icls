@@ -1,11 +1,11 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="Darcula copy - no bg" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-01-24T09:09:50</property>
+    <property name="created">2020-03-24T23:35:12</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-03-24T23:34:40</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-24T23:35:22</property>
+    <property name="originalScheme">Darcula copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -30,6 +30,9 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
   <attributes>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9876aa" />
