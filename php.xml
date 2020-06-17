@@ -92,4 +92,7 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
 </application>
