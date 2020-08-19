@@ -1,11 +1,15 @@
 <scheme name="IntelliJ Light Preview copy1" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-03-20T09:25:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-07-24T09:45:27</property>
+    <property name="modified">2020-08-19T09:40:01</property>
     <property name="originalScheme">IntelliJ Light Preview copy</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.3" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Cousine" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
