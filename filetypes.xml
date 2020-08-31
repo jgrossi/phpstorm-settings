@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="trader" type="PHP" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="payment.php" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="blocked" type="PLAIN_TEXT" />
