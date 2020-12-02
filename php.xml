@@ -1,22 +1,97 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="78490002-0de1-4fc8-8257-3596595eac8b" name="PHP 7.3.11" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="ec91c395-995e-4759-b1d3-289716f99e8b" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.11/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="2020f9dc-bace-4149-af79-0cccb2fd5138" name="PHP 7.3.23" home="/usr/local/Cellar/php@7.3/7.3.23/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="abed94e5-305e-494f-9762-7082b6b7da62" name="php80" home="/usr/local/Cellar/php/8.0.0_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7c863a68-c203-490a-823c-d1eb4b5fad1c" name="php74" home="/usr/local/Cellar/php@7.4/7.4.13_1/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.11/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.11/bin/php" path_separator=":" version="7.4.11">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+      <interpreter name="php80">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.0_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.0_1/bin/php" path_separator=":" version="8.0.0">
+          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.0_1/share/php/pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="FFI" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dba" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_dblib" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="phpdbg_webhelper" />
+            <extension name="posix" />
+            <extension name="pspell" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="php74">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.13_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.13_1/bin/php" path_separator=":" version="7.4.13">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.11/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.13_1/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.8">
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -80,155 +155,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.3.11">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
-          <additional_php_ini />
-          <configuration_file />
-          <configuration_options>
-            <configuration_option name="include_path" value=".:" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dba" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="posix" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="snmp" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="tidy" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.3.23">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.23/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.23/bin/php" path_separator=":" version="7.3.23">
-          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.23/share/php@7.3/pear" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.8">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="PDO_ODBC" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dba" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mongodb" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcntl" />
-            <extension name="pcre" />
-            <extension name="pdo_dblib" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
-            <extension name="posix" />
-            <extension name="pspell" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sodium" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="tidy" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />

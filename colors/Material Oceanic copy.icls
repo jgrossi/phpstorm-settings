@@ -4,11 +4,11 @@
     <property name="created">2019-08-27T16:24:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-11-15T17:25:40</property>
+    <property name="modified">2020-12-01T21:04:34</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.3" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -327,7 +327,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -984,13 +983,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JAVA_PARENTH">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
