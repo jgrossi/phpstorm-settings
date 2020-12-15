@@ -17,7 +17,7 @@
       <option name="HTML_TEXT" value="true" />
     </context>
   </template>
-  <template name="foreachk" value="foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true">
+  <template name="foreachk" value="foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) {&#10;    $END$&#10;}" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR_KEY" expression="" defaultValue="&quot;$key&quot;" alwaysStopAt="true" />
     <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -32,7 +32,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="foreachp" value="&lt;?php foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$): ?&gt;&#10;    $END$&#10;&lt;?php endforeach; ?&gt;" description="HTML PHP foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="false" toShortenFQNames="true">
+  <template name="foreachp" value="&lt;?php foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$): ?&gt;&#10;    $END$&#10;&lt;?php endforeach; ?&gt;" description="HTML PHP foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR_KEY" expression="" defaultValue="&quot;$key&quot;" alwaysStopAt="true" />
     <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -40,10 +40,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="met" value="$public$ function $name$($params$)&#10;{&#10;    $END$&#10;}" description="PHP method" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="$public$ function $name$($params$): $return$&#10;{&#10;    $END$&#10;}" description="PHP method" toReformat="true" toShortenFQNames="true">
     <variable name="public" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="&quot;params&quot;" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
@@ -97,6 +98,13 @@
   </template>
   <template name="class" value="&#10;declare(strict_types=1);&#10;&#10;class $name$&#10;{&#10;    $END$&#10;}" description="php 7 class declaration" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="c8" value="public function __construct(&#10;    private $TYPE$ $NAME$$END$&#10;) {}" description="php 8 constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
