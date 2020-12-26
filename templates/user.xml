@@ -102,9 +102,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="c8" value="public function __construct(&#10;    private $TYPE$ $NAME$$END$&#10;) {}" description="php 8 constructor" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="c8" value="public function __construct(&#10;    private $END$&#10;) {}" description="php 8 constructor" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
