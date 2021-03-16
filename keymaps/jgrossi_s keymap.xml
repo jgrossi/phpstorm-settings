@@ -78,6 +78,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
   <action id="UML.ShowChanges">
     <keyboard-shortcut first-keystroke="shift meta alt d" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />

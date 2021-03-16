@@ -7,9 +7,7 @@
       <action id="RecentProjectListGroup">
         <abbreviation name="recent" />
       </action>
-      <action id="TogglePresentationMode">
-        <abbreviation name="present" />
-      </action>
+      <action id="TogglePresentationMode" />
       <action id="$LRU" />
       <action id="Annotate">
         <abbreviation name="blame" />
