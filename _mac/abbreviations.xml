@@ -1,15 +1,18 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="$LRU" />
-      <action id="Annotate">
-        <abbreviation name="blame" />
+      <action id="Git.ResolveConflicts">
+        <abbreviation name="conflicts" />
       </action>
       <action id="RecentProjectListGroup">
         <abbreviation name="recent" />
       </action>
-      <action id="Git.ResolveConflicts">
-        <abbreviation name="conflicts" />
+      <action id="TogglePresentationMode">
+        <abbreviation name="present" />
+      </action>
+      <action id="$LRU" />
+      <action id="Annotate">
+        <abbreviation name="blame" />
       </action>
     </abbreviations>
   </component>
