@@ -98,7 +98,7 @@
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.19_1/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.8">
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>

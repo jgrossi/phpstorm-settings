@@ -24,10 +24,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
@@ -58,6 +63,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="ctrl alt c" />
   </action>
@@ -89,4 +95,5 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
 </keymap>
