@@ -3,7 +3,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="abed94e5-305e-494f-9762-7082b6b7da62" name="php80" home="/usr/local/Cellar/php/8.0.10/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="7c863a68-c203-490a-823c-d1eb4b5fad1c" name="php74" home="/usr/local/Cellar/php@7.4/7.4.19_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7c863a68-c203-490a-823c-d1eb4b5fad1c" name="php74" home="/usr/local/Cellar/php@7.4/7.4.23/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -91,14 +91,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="php74">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.19_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.19_1/bin/php" path_separator=":" version="7.4.19">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.23/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.23/bin/php" path_separator=":" version="7.4.23">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.19_1/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.23/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -134,7 +134,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
