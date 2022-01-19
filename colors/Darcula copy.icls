@@ -1,0 +1,13 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-12-10T09:28:33</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2022-01-18T09:48:34</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Cousine" />
+</scheme>

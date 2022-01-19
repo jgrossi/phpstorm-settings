@@ -1,0 +1,100 @@
+<keymap version="1" name="jgrossi's keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="OpenDirectoryProject">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="ctrl alt c" />
+  </action>
+  <action id="SurroundWith" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="UML.ShowChanges">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
+</keymap>
