@@ -4,17 +4,17 @@
     <interpreters>
       <interpreter id="abed94e5-305e-494f-9762-7082b6b7da62" name="php80" home="/usr/local/Cellar/php/8.0.11/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="7c863a68-c203-490a-823c-d1eb4b5fad1c" name="php74" home="/usr/local/Cellar/php@7.4/7.4.23/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="328c6ed5-6a33-4a68-a168-9eb96f4dd04a" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.3_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="328c6ed5-6a33-4a68-a168-9eb96f4dd04a" name="PHP 8.1" home="/usr/local/Cellar/php/8.1.6/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.3_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.3_1/bin/php" path_separator=":" version="8.1.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.6/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.6/bin/php" path_separator=":" version="8.1.6">
           <additional_php_ini>/usr/local/etc/php/8.1/conf.d/error_log.ini, /usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.3_1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.6/share/php/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="3.1.4">
