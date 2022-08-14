@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="bdi" type="AUTO_DETECTED" />
       <mapping pattern="trader" type="PHP" />
       <mapping pattern="payment.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
